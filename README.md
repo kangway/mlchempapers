@@ -74,7 +74,7 @@ Hughes, T. B.; Miller, G. P.; Swamidass, S. J. *ACS Cent. Sci*, **2015**, *1*, 1
 3. "Modeling Reactivity to Biological Macromolecules with a Deep Multitask Network."
 Hughes, T. B.; Dang, N. L.; Miller, G. P.; Swamidass, S. J. *ACS Cent Sci.* **2016**, *2*, 529.
 
-### Structure-Based Drug Discovery
+### Structure-Based Virtual Screening
 1. "AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery."
 Wallach, I.; Dzamba, M.; Heifets, A. **2015**. arXiv:1510.02855v1
 2. "NNScore: A Neural-Network-Based Scoring Function for the Characterization of Protein−Ligand Complexes"
