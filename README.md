@@ -77,6 +77,12 @@ Hughes, T. B.; Dang, N. L.; Miller, G. P.; Swamidass, S. J. *ACS Cent Sci.* **20
 ### Structure-Based Drug Discovery
 1. "AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery."
 Wallach, I.; Dzamba, M.; Heifets, A. **2015**. arXiv:1510.02855v1
+2. "NNScore: A Neural-Network-Based Scoring Function for the Characterization of Protein−Ligand Complexes"
+3. "NNScore 2.0: A Neural-Network Receptor–Ligand Scoring Function"
+4. "Predicting Ligand Binding Modes from Neural Networks Trained on Protein–Ligand Interaction Fingerprints"
+5. "Protein–Ligand Scoring with Convolutional Neural Networks."
+Matthew Ragoza, M.; Hochuli, J.; Idrobo, E.; Sunseri, J.; Koes, D. R. 
+
 
 ### Organic Reaction Prediction
 1. "Neural Networks for the Prediction of Organic Chemistry Reactions"
