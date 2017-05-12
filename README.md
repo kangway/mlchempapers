@@ -1,7 +1,6 @@
 # mlchempapers
 A semisorted, working list of ML (mostly deep learning) papers relating to chemistry, biology, and drug discovery.
 
-
 ### Deep Learning Review Articles
 1. "Deep Learning for Computational Chemistry."
 Goh, G. B.; Hoda, N. O.; Vishnu, A. *J. Comput. Chem.* **2017**, DOI: 10.1002/jcc.24764
@@ -73,16 +72,21 @@ Hughes, T. B.; Swamidass. S. J. *Chem. Res. Toxicol.* **2017**, *30*, 642.
 Hughes, T. B.; Miller, G. P.; Swamidass, S. J. *ACS Cent. Sci*, **2015**, *1*, 168.
 3. "Modeling Reactivity to Biological Macromolecules with a Deep Multitask Network."
 Hughes, T. B.; Dang, N. L.; Miller, G. P.; Swamidass, S. J. *ACS Cent Sci.* **2016**, *2*, 529.
+4. "Deep Learning for Drug-Induced Liver Injury."
+Xu, Y.; Dai, Z.; Chen, F.; Gao, S.; Pei, J.; Lai, L. *J. Chem. Inf. Model.* **2015**, *55*,2085.
 
 ### Structure-Based Virtual Screening
 1. "AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery."
 Wallach, I.; Dzamba, M.; Heifets, A. **2015**. arXiv:1510.02855v1
 2. "NNScore: A Neural-Network-Based Scoring Function for the Characterization of Protein−Ligand Complexes"
+Durrant, J. D.; McCammon, J. A. *J. Chem. Inf. Model.* **2010**, *50*, 1865.
 3. "NNScore 2.0: A Neural-Network Receptor–Ligand Scoring Function"
 4. "Predicting Ligand Binding Modes from Neural Networks Trained on Protein–Ligand Interaction Fingerprints"
-5. "Protein–Ligand Scoring with Convolutional Neural Networks."
-Matthew Ragoza, M.; Hochuli, J.; Idrobo, E.; Sunseri, J.; Koes, D. R. 
 
+5. "Protein–Ligand Scoring with Convolutional Neural Networks."
+Matthew Ragoza, M.; Hochuli, J.; Idrobo, E.; Sunseri, J.; Koes, D. R. *J. Chem. Inf. Model.* **2017**, *57*, 942.
+6. "Learning Deep Architectures for Interaction Prediction in Structure-based Virtual Screening."
+Gonczarek, A.; Tomczak, J. M; Zareba, S.; Kaczmar, J.; Dabrowski, P,; Walczak, M. J. arXiv:1610.07187. **2016**
 
 ### Organic Reaction Prediction
 1. "Neural Networks for the Prediction of Organic Chemistry Reactions"
